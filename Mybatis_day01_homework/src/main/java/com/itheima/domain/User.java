@@ -3,6 +3,10 @@ package com.itheima.domain;
 import java.util.Date;
 
 public class User {
+    public static void main(String[] args) {
+        System.out.println("这是A第一次上传的代码");
+        System.out.println("这是B第一次上传代码");
+    }
 
     private Integer id;
     private String username;
